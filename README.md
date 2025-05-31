@@ -2,8 +2,6 @@
 
 A powerful Python-based anti-phishing detection system specifically enhanced for Fiverr marketplace security. This tool helps identify and prevent phishing attempts and scam messages on the Fiverr platform.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/happyvibess)
-
 ## Support the Project
 
 If you find this tool helpful in protecting your Fiverr marketplace from phishing attempts, consider supporting the development:
